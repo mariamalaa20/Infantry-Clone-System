@@ -28,3 +28,11 @@ To run this project, you need the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/infantry-clone-system.git
+
+
+infantry-clone-system/
+├── Main.java                # Entry point of the application
+├── IInfantry.java           # Interface for cloneable infantry units
+├── Infantry.java            # Implementation of the infantry unit
+├── InfantryRecord.java      # Manages prototypes of infantry units
+└── README.md                # Project documentation
